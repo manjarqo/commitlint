@@ -1,4 +1,4 @@
-name: commitlint
+name: commitlint_cli
 publish_to: none
 
 environment:
